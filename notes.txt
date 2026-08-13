@@ -5,3 +5,5 @@ steps
 2.add intracked files to stagging(tracked file) git add filename
 3.save tracked files to local repo git commit-m "message"
 4.save from local to remote repo
+
+STUTI MIGLANI
